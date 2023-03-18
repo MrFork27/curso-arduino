@@ -15,7 +15,7 @@ Se han aprendido los siguientes conceptos:
 
 1. Código:
 
-```arduino
+```C++
 void setUp() {
     // codigo de inicializacion, se ejecuta una sola vez al principio
 }
