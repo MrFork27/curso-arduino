@@ -7,7 +7,7 @@ Durante esta sección se han aprendido los primeros conceptos de Arduino Uno (El
 -   [Recursos](#recursos)
 -   [Conceptos aprendidos](#conceptos-aprendidos)
 
-## <a id="recursos"> [Recursos]
+## <a id="recursos"> Recursos
 
 Se han necesitado los siguientes recursos:
 
@@ -15,7 +15,7 @@ Se han necesitado los siguientes recursos:
 2. [Arduino IDE](https://www.arduino.cc/en/software)
 3. [Vídeo explicativo por Bitwise Ar](https://www.youtube.com/watch?v=GUuWgk3dXd0&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2&index=2)
 
-## <a id="conceptos-aprendidos"> [Conceptos aprendidos]
+## <a id="conceptos-aprendidos"> Conceptos aprendidos
 
 Se han aprendido los siguientes conceptos:
 
