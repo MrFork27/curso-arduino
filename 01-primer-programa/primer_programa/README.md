@@ -49,4 +49,4 @@ delay(1000);
 En la parte superior izquierda, pulsando en el tick se compila el código y pulsando en la flecha se copia el código en la placa.
 [01-compilacion-ejecucion]
 ![alt text]
-[01-compilacion-ejecucion]: https://raw.githubusercontent.com/MrFork27/curso-arduino/01PrimerPrograma/01-primer-programa/primer_programa/images/01-compilacion-ejecucion.png
+[01-compilacion-ejecucion]: https://github.com/MrFork27/curso-arduino/01PrimerPrograma/01-primer-programa/primer_programa/images/01-compilacion-ejecucion.png
