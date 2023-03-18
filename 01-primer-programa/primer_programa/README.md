@@ -13,7 +13,7 @@ Se han necesitado los siguientes recursos:
 
 Se han aprendido los siguientes conceptos:
 
-1. Código:
+### Código:
 
 ```C++
 void setUp() {
@@ -44,7 +44,8 @@ digitalWrite(13, LOW);
 delay(1000);
 ```
 
-2. Compilación y escritura del código en la placa con el IDE de Arduino:
+### Compilación y escritura del código en la placa con el IDE de Arduino:
 
 En la parte superior izquierda, pulsando en el tick se compila el código y pulsando en la flecha se copia el código en la placa.
-![alt text](images/01-compilacion-ejecucion.png)
+
+![Compilación y ejecución](images/01-compilacion-ejecucion.png)
