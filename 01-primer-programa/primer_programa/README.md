@@ -1,6 +1,6 @@
 # 01. Primer Programa
 
-Durante esta sección se han aprendido los primeros principales conceptos de Arduino Uno (Elegoo Uno). Para ello se ha realizado un simple programa cuyo objetivo ha sido el de encender y apagar durante un segundo un LED incorporado en la propia placa Elegoo Uno.
+Durante esta sección se han aprendido los primeros conceptos de Arduino Uno (Elegoo Uno). Para ello se ha realizado un simple programa cuyo objetivo ha sido el de encender y apagar durante un segundo un LED incorporado en la propia placa Elegoo Uno.
 
 ## Recursos
 
@@ -21,25 +21,25 @@ void setUp() {
 }
 ```
 
-```arduino
+```C++
 void loop() {
     // codigo que se ejecuta repetidamente
 }
 ```
 
-```arduino
+```C++
 // declara el pin numero 13 como salida
 pinMode(13, OUTPUT);
 ```
 
-```arduino
+```C++
 // escribe un uno (5V) en el pin 13
 digitalWrite(13, HIGH);
 // escribe un cero (0V) en el pin 13
 digitalWrite(13, LOW);
 ```
 
-```arduino
+```C++
 // espera durante un segundo
 delay(1000);
 ```
@@ -49,4 +49,4 @@ delay(1000);
 En la parte superior izquierda, pulsando en el tick se compila el código y pulsando en la flecha se copia el código en la placa.
 [01-compilacion-ejecucion]
 ![alt text]
-[01-compilacion-ejecucion]: https://raw.githubusercontent.com/MrFork27/curso-arduino/01PrimerPrograma/01-primer-programa/primer_programa/images/01-compilacion-ejecucion.png?token=GHSAT0AAAAAACAGRCL7EJ2CGRPCTBEFSMUCZAVRXXA
+[01-compilacion-ejecucion]: https://raw.githubusercontent.com/MrFork27/curso-arduino/01PrimerPrograma/01-primer-programa/primer_programa/images/01-compilacion-ejecucion.png
