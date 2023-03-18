@@ -1,5 +1,7 @@
 # 01. Primer programa
 
+_Aitor Melero edito el Mar 18, 2023_
+
 Durante esta sección se han aprendido los primeros conceptos de Arduino Uno (Elegoo Uno). Para ello se ha realizado un simple programa cuyo objetivo ha sido el de encender y apagar durante un segundo un LED incorporado en la propia placa Elegoo Uno.
 
 ### Tabla de contenidos
