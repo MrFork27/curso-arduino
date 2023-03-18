@@ -47,4 +47,4 @@ delay(1000);
 2. Compilación y escritura del código en la placa con el IDE de Arduino:
 
 En la parte superior izquierda, pulsando en el tick se compila el código y pulsando en la flecha se copia el código en la placa.
-![alt text](https://github.com/MrFork27/curso-arduino/01PrimerPrograma/01-primer-programa/primer_programa/images/01-compilacion-ejecucion.png)
+![alt text](images/01-compilacion-ejecucion.png)
