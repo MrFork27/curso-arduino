@@ -2,14 +2,20 @@
 
 Durante esta sección se han aprendido los primeros conceptos de Arduino Uno (Elegoo Uno). Para ello se ha realizado un simple programa cuyo objetivo ha sido el de encender y apagar durante un segundo un LED incorporado en la propia placa Elegoo Uno.
 
-## Recursos
+###### Tabla de contenidos
+
+-   [Recursos](#recursos)
+-   [Conceptos aprendidos](#conceptos-aprendidos)
+
+## [Recursos](#recursos)
 
 Se han necesitado los siguientes recursos:
 
 1. [Placa Elegoo Uno](https://www.elegoo.com/en-es/products/elegoo-uno-r3-board)
 2. [Arduino IDE](https://www.arduino.cc/en/software)
+3. [Vídeo explicativo por Bitwise Ar](https://www.youtube.com/watch?v=GUuWgk3dXd0&list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2&index=2)
 
-## Conceptos aprendidos
+## [Conceptos aprendidos](#conceptos-aprendidos)
 
 Se han aprendido los siguientes conceptos:
 
